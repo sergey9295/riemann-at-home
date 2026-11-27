@@ -1,0 +1,26 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "proof": "300k",
+  "source_commit": "72fead102f663d5c7a407964a13dc0cf9d977207",
+  "toolchain": "leanprover/lean4:v4.35.0",
+  "mathlib_rev": "56a005855ea17e0b0958f73ec801ae140b0a1679",
+  "build_folder": "/opt/riemann-at-home/grh",
+  "build_id": "f2bec6b22cb5d0c6",
+  "machine": {
+    "os": "Linux 6.18.58.1-microsoft-standard-WSL2",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "cores": 32
+  },
+  "started": "2026-11-27T07:25:44Z",
+  "recorded": "2026-11-27T07:28:41Z",
+  "busy_seconds": 177,
+  "modules_compiled": 182,
+  "bitmap_b64": "H4sIAAAAAAACA1NvsGUwefDhP+fjnQwNO/7ZMjCIKDAwPGTujlMzYGBYs/bfzX3/f6d/ZGBkZHBsWM4jkMHExMDgwMHBxOTLwMDgwsjBAAKsDAwsYAYD0wMQ6QAUdgAxfoNIFgB71oIJZQAAAA==",
+  "olean_digest": "45a7fa7191e53f0eb1998f755403976ecc661d169c31700247b01f730c14ae5f",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "display_name": "Russell Land"
+}

@@ -1,0 +1,26 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "proof": "300k",
+  "source_commit": "72fead102f663d5c7a407964a13dc0cf9d977207",
+  "toolchain": "leanprover/lean4:v4.35.0",
+  "mathlib_rev": "56a005855ea17e0b0958f73ec801ae140b0a1679",
+  "build_folder": "/opt/riemann-at-home/grh",
+  "build_id": "575c03377dcc78fa",
+  "machine": {
+    "os": "Linux 6.18.58.1-microsoft-standard-WSL2",
+    "arch": "x86_64",
+    "cpu": "Intel(R) Core(TM) Ultra 7 258V",
+    "cores": 8
+  },
+  "started": "2026-11-27T06:48:54Z",
+  "recorded": "2026-11-27T07:49:45Z",
+  "busy_seconds": 3651,
+  "modules_compiled": 611,
+  "bitmap_b64": "H4sIAAAAAAAC//v/HwZ+/0cD9b/O/fuPBfw4mgAWf/63/v9JjobvjpfX/20QYmEAg0MPvwOlLp/++Td/7ha2A/8dmgJEWACsvPdwZQAAAA==",
+  "olean_digest": "c526d358fb57dea32cf79286e4306267ba45129e70cd57f2a069899bf9288458",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "display_name": "Akelodaima"
+}

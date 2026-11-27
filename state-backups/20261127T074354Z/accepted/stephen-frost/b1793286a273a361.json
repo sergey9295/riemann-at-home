@@ -1,0 +1,25 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "b1793286a273a361",
+  "machine": {
+    "os": "Linux 7.0.0-44-generic",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen AI 7 350 w/ Radeon 860M",
+    "cores": 16
+  },
+  "started": "2026-11-27T06:22:10Z",
+  "recorded": "2026-11-27T07:43:07Z",
+  "busy_seconds": 4857,
+  "modules_compiled": 3441,
+  "bitmap_b64": "H4sIAAAAAAAC/+2cX2hbVRjAv3NvltzWNrlImLETezr/LIzh8iRu4nI2i6gou/VFcQ+rDinC0LIpPpS0Z0OrCNoOfSgitaKvguKDgpNkmz4N2fTBgRsuA6Ei1a7WmrCsOZ5z7829N2nSZF2L036/h3D+3XO+7/z7cr57EgBkeYgf1Fa14puBqeoNO0KdNJUCXDUVB9JrVZJXEXYvmLVpbY0KUykQAY3sfmTgqBlatl5HDVt2gFArkoS87gzhLEMQBEEQBEEQBEEQBEEQBEEQBEEQ5P8CJ41yKq9GqRdN1eT4MD9oLn3Ju5SupiXCq67pq7qULKStXVeaOJuQ6+LGuo1wI81ngpMDQRAEQRAEQZD1gHF9J0eKPYgg64wcmObKvCbFaBMvab+qHj0yyFrDbOPXqwEP2jezyq5xmaCpn7RVwW2TuEWVYpXJnADYTetbTGZ+H91U23rYdEsf1JJaq4YY+Xe5cwP2AYIgCIIgCIKsGyJQFB7dPC8/S2k756pIV45734n9r2x4LvXOn0NP/NA3J7JjQqSFyubqqZ2tt0bbdkzf//ZT2v4zh8MFkS5dXCy7TXfCeFlUUVAfMUIDj3t/f0KcU6qxFl6VdvXxcKRhfs796xSlTrSBJ7mOQ4iQyknbvyo4FbgKSLfSJLf7XzIi5ksy7Vf9pcczb70GTxb8bsmKBy8PzbmK5wbC9vF+SoimN/Vy5U0XHBHOy6EbZwzCv5kscQI6ourZg+z2RMUbIGu/FfIDByC3eBOM3PPtZ9AzNBw8z9Nn/HpnjrVtHpwVs9R3nRsbteO2hM/uAuiaIErjL6MA5WkdoLjDzipLTboviYlRmZSicUapLGRGq0Q2qhwZ7VLMdsPzLIzXU1KvBFLeJShjbh6KkPsKrNMveur5nHViGzvVRD+Q7yNJgFNvvJ9JmcAnzj5qWO+e6D8UgcjP6MGDgDOJ/VK/P/hyr1aiqTezucASnxXZzaHRlxfOxa6KrfpdhrPt6KDZIbU0wgCDznIygJGABCG1kHI9znCatKahsFpawVtwnLV2Pc/f9K6dVu7gDnuhvNBX0EYx1mSbqUd+aUtl0V3HFKwemTVz/oUq06HXjv5429hfZsmdT1/Ml1y7ESCWPHLS5J+e+eBuOR/cNE/VXaNd0KcCOwcj+/Za7339wKlt3s7QHYfXid3NhrNzm8zd+9lxUv5muzGThr9/H9ZnrMlp8cnCSCEzG3GH5cJHDxWOTd5i28dmA80Xq6NyaghnmCkMVl/9vlypjgIrpv8wE3Ig1TrgerFGaxKwM8BcCbimkviYCn9saBaXqykBvLNWopT9ukIuLKm30RFv597imSJ7iD/xWD11GDDZzLaiknOix2n3+SunxfmLojmxzzNqjGLechSR2Id7qVSl5fnE7+BlUbC/WKRxw0YQpAlH+6kBP5Ge5OjCFrmB9QK3ILHSyozWrXBjJoORjuVK3nftP4Pge7ZbwPgL7LEjI9rTlJtTJGFv6jm1r3NxKXulJHf5+NIzTJ1NnzoaE2UlOa3uCO59JSo7UrKgGQewaqr+T8DhH8NiJuWLVQAA",
+  "olean_digest": "4725b3e91d7ae2e4638acb4115e16f84c18a28e2188a8e1c016ea0c5a2f1c354",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "display_name": "Stephen Frost"
+}

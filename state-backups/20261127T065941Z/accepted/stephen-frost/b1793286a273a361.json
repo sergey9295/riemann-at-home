@@ -1,0 +1,25 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "b1793286a273a361",
+  "machine": {
+    "os": "Linux 7.0.0-44-generic",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen AI 7 350 w/ Radeon 860M",
+    "cores": 16
+  },
+  "started": "2026-11-27T06:22:10Z",
+  "recorded": "2026-11-27T06:52:33Z",
+  "busy_seconds": 1823,
+  "modules_compiled": 1536,
+  "bitmap_b64": "H4sIAAAAAAAC/+3cP2gTURwH8N/9aTzUNqc4hDrkRKTBwSIolCrcgbpqBhHBwUInQUWnIFJ9qDi4WCqig9Q4OoiCg6JDr4uLCBaKi4gRCg4OVoI2tkmf7y539S7Nv2sTjfb7gTakebl7997vfu9PaIigafJ/ehESuhYAAAAAAAAAAAAAAAAAoEPpnVqxa4qomyqvwSsHQDwDAAAAAAB0Pq1xERWtBABL2Cr2bxrskhrix0YLQ7tZ7uB3UCam1ghDJ85dmyuj3xkS+9xSfjAnQv9uFjqipU/1bK08vowO+PeomAkBAAAAAKwd60h7NMV5psSFJMuJ3wum99qAv9x7w09mJImuXtHFGpPxJJFtcr5PrBtF8cVIGye7DepxFpzD8hw3L96Y3NWd3v/8J58gGr1X4hPz3Cxy+/MFXuSZ08cGj8fXWHfYoh+K/MNenv8SXHafo4LTPb1Ht9hihc92nvfLH1Kbb/3qSz1Wq7jx+z2MjBORLkMO7TmENigoVbE/X+c7bbQWbtRnxdnLZ2ahM46Wn6mSW7+s31Zn3AfdEm+ZHCKFYuuRK4LBYc1U7zem1o1A9tAW6cPJMo6vPCmrsT2z03ER08oOt3uKXPE+wnGiJVYZPf42rRqM22X3gGqwcGQxS1/FPdKc2B9o90K82m3WqqGglbQ2tUBFD71L3Jymhf6xTYOvT80/yb8vfcyIBBowV38IkfVQdRNNZqZAIU32AjDV/o8VjQJ/VpLqB6yT3roiBXOUbxVruiybUZaSK21Ls7cH7r66naQf/q1vardK34b7L224PD6iklXIiz/eJ/npCI0dtrq9g+Tu5NX4gyNGlJZl273UMMtNJGoAaDRdHTI0siRKXf/eJ+YZYo2TDo8ErRj4ckqEg4wHn2ysV3JgJaNOV1rMps5aTjbvNUjPSt7M2JlQMP7p8YuXUs3kby1bJmjuSzJpNdcStFiupRUet9IrG4P+Lka/AKjVKVCLVQAA",
+  "olean_digest": "f563af65c05b07d18aa23b118068fe28208de61d40b97bbc3fb129e1c5225227",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "display_name": "Stephen Frost"
+}

@@ -1,0 +1,62 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "proof": "300k",
+  "source_commit": "72fead102f663d5c7a407964a13dc0cf9d977207",
+  "toolchain": "leanprover/lean4:v4.35.0",
+  "mathlib_rev": "56a005855ea17e0b0958f73ec801ae140b0a1679",
+  "build_folder": "/Users/Shared/riemann-at-home/grh",
+  "build_id": "2dbafe54d0c17d36",
+  "machine": {
+    "os": "Darwin 27.0.0",
+    "arch": "arm64",
+    "cpu": "Apple M4 Max",
+    "cores": 16
+  },
+  "started": "2026-11-27T06:19:18Z",
+  "recorded": "2026-11-27T06:39:48Z",
+  "busy_seconds": 1230,
+  "modules_compiled": 492,
+  "bitmap_b64": "H4sIAAAAAAAC/9v/4f/1/2/+A8Hv//9//oeA3//v/6/LL/lw6s9fqMj//f//Acn7tW///fvB6uDxm53rfHpAxP2THAwiDgcX1zIwsDCAwaGHl19/qD90QuNBSssClgP/HYBiLADHnA1oZQAAAA==",
+  "olean_digest": "7763a69ead8453a994221054d53ae2c612ccec965793307c1c169e1521909aeb",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "crashes": [
+    {
+      "module": "Lib.PadicHodge.Kisin.KummerChartExistence",
+      "code": 1,
+      "at": "2026-11-27T06:28:38Z"
+    },
+    {
+      "module": "Lib.Shimura.ThetaModuli.ThetaFamilyRigidity",
+      "code": 1,
+      "at": "2026-11-27T06:28:38Z"
+    },
+    {
+      "module": "Lib.Cohomology.Hodge.DepthVanishing",
+      "code": 1,
+      "at": "2026-11-27T06:30:42Z"
+    },
+    {
+      "module": "Lib.Shimura.HeckeTower.Model",
+      "code": 1,
+      "at": "2026-11-27T06:30:42Z"
+    },
+    {
+      "module": "Lib.PadicComparison.ToricTower",
+      "code": 1,
+      "at": "2026-11-27T06:30:42Z"
+    },
+    {
+      "module": "Lib.Shimura.ArcExtension",
+      "code": 1,
+      "at": "2026-11-27T06:30:42Z"
+    },
+    {
+      "module": "unknown",
+      "code": 1,
+      "at": "2026-11-27T06:33:46Z"
+    }
+  ]
+}

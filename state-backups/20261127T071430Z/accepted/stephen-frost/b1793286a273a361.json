@@ -1,0 +1,25 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "b1793286a273a361",
+  "machine": {
+    "os": "Linux 7.0.0-44-generic",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen AI 7 350 w/ Radeon 860M",
+    "cores": 16
+  },
+  "started": "2026-11-27T06:22:10Z",
+  "recorded": "2026-11-27T07:12:45Z",
+  "busy_seconds": 3035,
+  "modules_compiled": 2334,
+  "bitmap_b64": "H4sIAAAAAAAC/+2cTWwTRxTH364Xe1sRewkpNQ1SNoUShFAJSEipivBAXYkDCJ97aaQeEBJFXFAOATK4Vg49QDjBpZUr9VSpAsShBw44B7ggDj1ApVIUV+qpPZCKJlj58DAzu7Z3HeMPMG2R/z9pZ79m33y9ec/zdmUi0DZmV6U5OjVC15hKuF9UOkNu9xuxd+2lt1o+ZMhKWU1z2N6O69RqpyJWgyMAAAAAAAAAAAAAAAAAAAAAAABhnP9rxXIRWTfL7MGWA/CG67OB4QAAAAAAAAD0AnbrLM2+Y3fRgwD0GJycl4yalOItoqTjcisgIgNeN0w7v7RJPOjfnJBf495Jf732K5c4onNVlDlJdPAFHpM5P8cH60uPOr7nPGnuMNt1xOC/Zds69AEAAAAAAAA9Q4xKosoQL8p0OaXvnKWxynLvvvh8wjDoq6wj15hcDBEVUkJ8LNeN6qn+DoozPnLdi2Sa/AvzmUgtz62WhVhVQvpoZkXuyrXKPJPbVKLHhqMgO2NFPN4nnv4VXHafro3SrSefzE/+7YeTCsejennPL7chenGw4B0NXjlAM4xR9E9iyVmy4uriEdpk16IBtJmKIxGi3yIU3164QcOT54Oy3BZlbarkM4lMRzdDxSQW70iRpc1eIT/GjyWG6eq0vDTqEnMbhAxsviZQ/xIxhfmsatEPxO7t9koOxeJmvLOBPqXoLK9PZin3pc7pHLbJmh2XsyT2NmxFUAHYH40jmrzZq5X46Ne3CtJ8FH1dfiJuv29Nn1n4JUF8Z+QDPbYrIuKPMpNbNPA006kfzrJ44M6aT+8sV90O1JCz9j7Pe5U/OIr+C/1eChnE7n6dG+uqtNcV/KuOUFqnD7dc+sdZ9vXpp6ePVucmxIoIkqhoTiNM0wlVNxlQALZxgC4Yupttzyo61fjpfuNi7kM7t14qmW1a+saeqb2fHo5UWp9Nz2zIxbRcq0Xsny/UXciPOxUz67wXnnbSDaxWxdkyW9w/HrP2bLGj1+/yd4rX3j14NNxVzKgZdplmVfq9bWbUS48k8b76Go1qEykT1W7LMnl18uSNQ0ZN8Rr2KyMme2TXvJrHV4e9Ek8s3Ss/+mbuwRAtiqYkbp4jb8zIMwYilvjumNvJvORb/TGaFykYagBAC7Ljrk2/GsaO6YUR9SuQeEa9/uqu4ytGOhDybfBkfbOcY53/ZuGHdmeI8VPsyIUp8zOXO3kjqY16Qdl1Ln6/vbQsrfzA2tVbA6Pvei02lJfkLyyy7NWShd14pk70GwGn51b41CKLVQAA",
+  "olean_digest": "4aaf60206799e50f35622593469446db76485285e140defcd77210617892211f",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "display_name": "Stephen Frost"
+}
